@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Mirlo-Cosmatic/static/css/main.37a4da96.css",
+    "main.js": "/Mirlo-Cosmatic/static/js/main.6a83fa65.js",
+    "static/js/787.39bb0775.chunk.js": "/Mirlo-Cosmatic/static/js/787.39bb0775.chunk.js",
+    "static/media/modeTwo.jpg": "/Mirlo-Cosmatic/static/media/modeTwo.63847fbcbcb256aa9cfe.jpg",
+    "static/media/modelOne.jpg": "/Mirlo-Cosmatic/static/media/modelOne.851230bc745be62a52c2.jpg",
+    "static/media/makeupBrushes.jpg": "/Mirlo-Cosmatic/static/media/makeupBrushes.f0360ac6ac3fade5e3d2.jpg",
+    "static/media/CategoryWomen.jpg": "/Mirlo-Cosmatic/static/media/CategoryWomen.89d7f60024f9a98a73b9.jpg",
+    "static/media/women.jpg": "/Mirlo-Cosmatic/static/media/women.957b4c08bc36b7bc2daf.jpg",
+    "static/media/children.jpg": "/Mirlo-Cosmatic/static/media/children.46c04f94983664ecb9ad.jpg",
+    "static/media/BannerModel.png": "/Mirlo-Cosmatic/static/media/BannerModel.72c45c2ead5cad572d44.png",
+    "static/media/modeThree.jpg": "/Mirlo-Cosmatic/static/media/modeThree.fa20c14c9b8f28d3b920.jpg",
+    "static/media/BannerBg.jpg": "/Mirlo-Cosmatic/static/media/BannerBg.75945684e566c0b03034.jpg",
+    "static/media/man.jpg": "/Mirlo-Cosmatic/static/media/man.55d9ea7b3509abac64a3.jpg",
+    "static/media/pregnantWomen.jpg": "/Mirlo-Cosmatic/static/media/pregnantWomen.d58f075a35d4a622f2e5.jpg",
+    "static/media/review.jpg": "/Mirlo-Cosmatic/static/media/review.83e208a6c56ac9cd240e.jpg",
+    "static/media/GoogleMap.png": "/Mirlo-Cosmatic/static/media/GoogleMap.122fdd215d67a24e5ac9.png",
+    "static/media/avatar-04.png": "/Mirlo-Cosmatic/static/media/avatar-04.5cde1a1b7dffd9b9f83a.png",
+    "static/media/avatar-03.png": "/Mirlo-Cosmatic/static/media/avatar-03.9bcc1e0b675edf836ed9.png",
+    "static/media/avatar-02.png": "/Mirlo-Cosmatic/static/media/avatar-02.cc9c983a8f12aab07b5f.png",
+    "static/media/avatar-01.png": "/Mirlo-Cosmatic/static/media/avatar-01.0e35f1b657d699ca4e25.png",
+    "index.html": "/Mirlo-Cosmatic/index.html",
+    "main.37a4da96.css.map": "/Mirlo-Cosmatic/static/css/main.37a4da96.css.map",
+    "main.6a83fa65.js.map": "/Mirlo-Cosmatic/static/js/main.6a83fa65.js.map",
+    "787.39bb0775.chunk.js.map": "/Mirlo-Cosmatic/static/js/787.39bb0775.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37a4da96.css",
+    "static/js/main.6a83fa65.js"
+  ]
+}
