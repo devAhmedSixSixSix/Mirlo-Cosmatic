@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Mirlo-Cosmatic/static/css/main.37a4da96.css",
-    "main.js": "/Mirlo-Cosmatic/static/js/main.6a83fa65.js",
+    "main.css": "/Mirlo-Cosmatic/static/css/main.8f4d8b45.css",
+    "main.js": "/Mirlo-Cosmatic/static/js/main.12140d29.js",
     "static/js/787.39bb0775.chunk.js": "/Mirlo-Cosmatic/static/js/787.39bb0775.chunk.js",
     "static/media/modeTwo.jpg": "/Mirlo-Cosmatic/static/media/modeTwo.63847fbcbcb256aa9cfe.jpg",
     "static/media/modelOne.jpg": "/Mirlo-Cosmatic/static/media/modelOne.851230bc745be62a52c2.jpg",
@@ -21,12 +21,12 @@
     "static/media/avatar-02.png": "/Mirlo-Cosmatic/static/media/avatar-02.cc9c983a8f12aab07b5f.png",
     "static/media/avatar-01.png": "/Mirlo-Cosmatic/static/media/avatar-01.0e35f1b657d699ca4e25.png",
     "index.html": "/Mirlo-Cosmatic/index.html",
-    "main.37a4da96.css.map": "/Mirlo-Cosmatic/static/css/main.37a4da96.css.map",
-    "main.6a83fa65.js.map": "/Mirlo-Cosmatic/static/js/main.6a83fa65.js.map",
+    "main.8f4d8b45.css.map": "/Mirlo-Cosmatic/static/css/main.8f4d8b45.css.map",
+    "main.12140d29.js.map": "/Mirlo-Cosmatic/static/js/main.12140d29.js.map",
     "787.39bb0775.chunk.js.map": "/Mirlo-Cosmatic/static/js/787.39bb0775.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.37a4da96.css",
-    "static/js/main.6a83fa65.js"
+    "static/css/main.8f4d8b45.css",
+    "static/js/main.12140d29.js"
   ]
 }
