@@ -73,6 +73,28 @@ function ShopSideBar({
             </div>
           </Accordion.Body>
         </Accordion.Item>
+        <Accordion.Item eventKey="1">
+          <Accordion.Header>Sort</Accordion.Header>
+          <Accordion.Body>
+            <input
+              type="radio"
+              name="sortBaseOnPrice"
+              value="lowToHigh"
+              id="lowToHigh"
+              className="me-2"
+            />
+            <label for="lowToHigh">Low To High</label>
+            <br />
+            <input
+              type="radio"
+              name="sortBaseOnPrice"
+              value="highToLow"
+              id="highToLow"
+              className="me-2"
+            />
+            <label for="highToLow"> High to low</label>
+          </Accordion.Body>
+        </Accordion.Item>
       </Accordion>
     </div>
   );

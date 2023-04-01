@@ -35,7 +35,7 @@ function Product({ filterdData, addToCart, addToWishlist }) {
         ) : (
           <Row>
             <Col xm={12} lg={6}>
-              <ProductGallery data={data} />
+              {data && <ProductGallery data={data} />}
             </Col>
             <Col xm={12} lg={6}>
               <Row>

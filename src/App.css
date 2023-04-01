@@ -1,3 +1,6 @@
+:root{
+  --main-color: #093f65
+}
 /* removeing outline from buttons */
 .panel-header button:focus {
   outline: 0px auto -webkit-focus-ring-color;
@@ -22,16 +25,30 @@
   padding: 10px;
   margin: 10px;
   border-radius: 5px;
-  border: solid 1px #093f65;
-  color: #093f65;
+  border: solid 1px var(--main-color);
+  color: var(--main-color);
 }
 
 .paginationBttns a:hover{
-    background: #093f65;
+    background: var(--main-color);
     color: #fff !important; 
 }
 
 .paginationActive a{
-    background: #093f65;
+    background: var(--main-color);
     color: #fff !important;
+}
+
+.offcanvas-backdrop.show {
+  opacity: 1;
+  background-color: rgba(15, 23, 42, 1);
+  backdrop-filter: blur(8px);
+}
+
+.offcanvas {
+  background-color: var(--main-color) !important
+}
+
+.navbar .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='30' height='30' viewBox='0 0 30 30'%3e%3cpath stroke='rgba(255, 255, 255, 1)' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
 }

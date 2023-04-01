@@ -57,7 +57,7 @@ function ContactUsForm() {
                   <Form.Label>Massage</Form.Label>
                   <Form.Control as="textarea" rows={3} />
                 </Form.Group>
-                <Button className="d-block m-auto w-25 mt-5">
+                <Button className="d-block m-auto w-50 mt-5">
                   Send Massage
                 </Button>
               </Form>

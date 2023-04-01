@@ -26,26 +26,7 @@ function App() {
   const filterdData =
     data &&
     data.products.filter(
-      (item) =>
-        item.category !== "smartphones" &&
-        item.category !== "laptops" &&
-        item.category !== "groceries" &&
-        item.category !== "furniture" &&
-        item.category !== "home-decoration" &&
-        item.category !== "mens-shirts" &&
-        item.category !== "mens-shoes" &&
-        item.category !== "mens-watches" &&
-        item.category !== "automotive" &&
-        item.category !== "motorcycle" &&
-        item.category !== "lighting" &&
-        item.category !== "tops" &&
-        item.category !== "sunglasses" &&
-        item.category !== "womens-dresses" &&
-        item.category !== "womens-shoes" &&
-        item.category !== "womens-watches" &&
-        item.category !== "womens-bags" &&
-        item.category !== "womens-jewellery" &&
-        item.category !== "lighting"
+      (item) => item.category === "fragrances" || item.category === "skincare"
     );
 
   const [cart, setCart] = useState([]);
@@ -126,7 +107,6 @@ function App() {
           }
         />
       </Routes>
-      {/* <Footer /> */}
     </div>
   );
 }

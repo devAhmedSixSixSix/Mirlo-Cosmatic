@@ -25,7 +25,7 @@ function Cart({ cart, removeItemFromCart }) {
             <Col lg={8}>
               <CartProductCard
                 bgColor="danger"
-                btnText="Remove From Cart"
+                btnText="Remove"
                 cart={cart}
                 removeItemFromCart={removeItemFromCart}
               />
@@ -44,7 +44,7 @@ function Cart({ cart, removeItemFromCart }) {
 
                   <button
                     style={btnBg}
-                    className="rounded text-white py-2 px-5 w-25"
+                    className="rounded text-white py-2 px-5 w-50"
                   >
                     Submit
                   </button>
